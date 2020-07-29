@@ -20,7 +20,9 @@
 展示：
 
 
-地址：[成品展示](https://huansheng1.github.io/eleme-page/)
+地址：[成品展示](https://huansheng1.github.io/eleme-page/seller)
+
+域名解析：[域名可能会到期](eleme.xuexizuoye.com)
 
 ## 项目初始化
 ```

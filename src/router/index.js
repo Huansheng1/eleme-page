@@ -71,8 +71,8 @@ const routes = [
 const router = new Router({
   routes,
   base: 'eleme-page',
-  linkActiveClass: 'active',
-  mode: 'history' // 修改router模式为history而不是默认的hash
+  linkActiveClass: 'active'
+  // mode: 'history' // 修改router模式为history而不是默认的hash
 })
 // 导出router路由实例
 export default router
