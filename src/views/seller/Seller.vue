@@ -2,7 +2,9 @@
     <div class='seller'>
     <seller-header :seller="seller" :showdetail.sync="showdetail"></seller-header>
     <seller-tab-bar></seller-tab-bar>
-    <router-view></router-view>
+    <keep-alive>
+      <router-view></router-view>
+    </keep-alive>
     <seller-detail :seller="seller" :showdetail.sync="showdetail"></seller-detail>
     </div>
 </template>

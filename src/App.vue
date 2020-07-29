@@ -2,7 +2,7 @@
   <div id="app">
     <my-tab-bar></my-tab-bar>
     <keep-alive>
-      <router-view id="app-router-view"></router-view>
+      <router-view id="app-router-view" append></router-view>
     </keep-alive>
   </div>
 </template>

@@ -2,7 +2,8 @@ const path = require('path')
 const webpack = require('webpack')
 const resolve = (dir) => path.join(__dirname, dir)
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/eleme-page/' : '/', // 公共路径，生产环境时默认在资源地址前加上dist/
+  outputDir: 'eleme-page',
+  publicPath: process.env.NODE_ENV === 'production' ? '/eleme-page/' : '/',
   chainWebpack: config => {
     config.resolve.symlinks(true) // 修复热更新失效
     // 优化moment 去掉国际化内容，只保留中文
