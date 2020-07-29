@@ -2,6 +2,7 @@
 node_modules
 /dist
 /build-git
+/eleme-page
 # local env files
 .env.local
 .env.*.local

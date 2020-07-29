@@ -3,7 +3,7 @@ const webpack = require('webpack')
 const resolve = (dir) => path.join(__dirname, dir)
 module.exports = {
   outputDir: 'eleme-page',
-  publicPath: process.env.NODE_ENV === 'production' ? '/eleme-page/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/' : '/',
   chainWebpack: config => {
     config.resolve.symlinks(true) // 修复热更新失效
     // 优化moment 去掉国际化内容，只保留中文

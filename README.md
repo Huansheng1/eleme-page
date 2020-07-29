@@ -17,10 +17,11 @@
 * ...
 ## 项目结果
 
-展示：
+展示：![](https://gitee.com/huanshenga/myimg/raw/master/PicGo/20200729170157.gif)
 
 
-地址：[成品展示](https://huansheng1.github.io/eleme-page/seller)
+
+地址：[成品展示](http://huanshenga.gitee.io/eleme-page/#/seller/goods)
 
 域名解析：[域名可能会到期](eleme.xuexizuoye.com)
 

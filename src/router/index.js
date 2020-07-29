@@ -70,7 +70,7 @@ const routes = [
 // 创建router实例
 const router = new Router({
   routes,
-  base: 'eleme-page',
+  // base: 'eleme-page',
   linkActiveClass: 'active'
   // mode: 'history' // 修改router模式为history而不是默认的hash
 })
