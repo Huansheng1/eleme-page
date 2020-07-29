@@ -19,11 +19,11 @@
 
 展示：![](https://gitee.com/huanshenga/myimg/raw/master/PicGo/20200729170157.gif)
 
-
+如不显示的点击地址查看：[https://gitee.com/huanshenga/myimg/raw/master/PicGo/20200729170157.gif](https://gitee.com/huanshenga/myimg/raw/master/PicGo/20200729170157.gif)
 
 地址：[成品展示](http://huanshenga.gitee.io/eleme-page/#/seller/goods)
 
-域名解析：[域名可能会到期](eleme.xuexizuoye.com)
+域名解析：[域名可能会到期](http://eleme.xuexizuoye.com/#/seller/goods)
 
 ## 项目初始化
 ```
